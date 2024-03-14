@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://i.ibb.co/6FLnDNM/7588830.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/9hZvyzj/profile.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 10,
+      "hashtag": "#SecretGarden"
+    },
+    {
+      "id": 2,
+      "cover_image": "https://i.ibb.co/6FLnDNM/7588830.jpg",
+      "title": "Lost in Wonderland",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/9hZvyzj/profile.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 15,
+      "hashtag": "#WonderlandAdventure"
+    },
+    {
+      "id": 3,
+      "cover_image": "https://i.ibb.co/6FLnDNM/7588830.jpg",
+      "title": "The Phantom of the Opera",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/9hZvyzj/profile.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 20,
+      "hashtag": "#OperaMystery"
+    },
+    {
+      "id": 4,
+      "cover_image": "https://i.ibb.co/6FLnDNM/7588830.jpg",
+      "title": "Journey to the Center of the Earth",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/9hZvyzj/profile.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 25,
+      "hashtag": "#CenterOfEarth"
+    },
+    {
+      "id": 5,
+      "cover_image": "https://i.ibb.co/6FLnDNM/7588830.jpg",
+      "title": "Treasure Island",
+      "author": "Sarah Adams",
+      "author_img": "https://i.ibb.co/9hZvyzj/profile.png",
+      "posted_date": "March 13, 2024",
+      "reading_time": 30,
+      "hashtag": "#IslandAdventure"
+    }
+  ]
+  
